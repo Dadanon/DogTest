@@ -8,6 +8,5 @@ public class Main {
                 .weight(20)
                 .build();
         System.out.println(dog.toString());
-        System.out.println("PELMEWE4KI!!!");
     }
 }
